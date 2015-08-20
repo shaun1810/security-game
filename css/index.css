@@ -3,3 +3,10 @@ body {
 	width: 100%;
 	background-color: rgba(197,72,74,1.00);
 }
+
+.atm {
+	width: 150px;
+	height: 250px;
+	background-color: #fff;
+	position: relative;
+}
