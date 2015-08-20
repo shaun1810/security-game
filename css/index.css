@@ -4,9 +4,54 @@ body {
 	background-color: rgba(197,72,74,1.00);
 }
 
+
+/* --- ATM --- */
 .atm {
 	width: 150px;
-	height: 250px;
+	height: 225px;
 	background-color: #fff;
-	position: relative;
+	position: absolute;
+	float: left;
+}
+#atm1 {
+	left: 10%;
+	top: 12%;
+}
+#atm2 {
+	left: 33%;
+	top: 12%;
+}
+#atm3 {
+	right: 33%;
+	top: 12%;
+}
+#atm4 {
+	right: 10%;
+	top: 12%;
+}
+#atm5 {
+	left: 10%;
+	bottom: 12%;
+}
+#atm6 {
+	left: 33%;
+	bottom: 12%;
+}
+#atm7 {
+	right: 33%;
+	bottom: 12%;
+}
+#atm8 {
+	right: 10%;
+	bottom: 12%;
+}
+
+
+/* --- CHARACTER -- */
+.character {
+	width: 50px;
+	height: 75px;
+	position: absolute;
+	background: rgba(56,75,220,1.00);
+	z-index: 1000;
 }
