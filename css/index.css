@@ -50,7 +50,8 @@ body {
 /* --- CHARACTER -- */
 .character {
 	width: 50px;
-	height: 50px;
+	height: 75px;
 	position: absolute;
 	background: rgba(56,75,220,1.00);
+	z-index: 1000;
 }
