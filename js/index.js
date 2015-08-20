@@ -3,7 +3,7 @@ $('#atm1').on('click', function(event) {
     alert('body');
 });
 
-$(document).keydown(function(e) {
+$(document).keypress(function(e) {
     switch (e.which) {
     case 37:
         $('#character').stop().animate({
