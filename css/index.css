@@ -15,35 +15,35 @@ body {
 }
 #atm1 {
 	left: 10%;
-	top: 5%;
+	top: 12%;
 }
 #atm2 {
 	left: 33%;
-	top: 5%;
+	top: 12%;
 }
 #atm3 {
 	right: 33%;
-	top: 5%;
+	top: 12%;
 }
 #atm4 {
 	right: 10%;
-	top: 5%;
+	top: 12%;
 }
 #atm5 {
 	left: 10%;
-	top: 55%;
+	bottom: 12%;
 }
 #atm6 {
 	left: 33%;
-	top: 55%;
+	bottom: 12%;
 }
 #atm7 {
 	right: 33%;
-	top: 55%;
+	bottom: 12%;
 }
 #atm8 {
 	right: 10%;
-	top: 55%;
+	bottom: 12%;
 }
 
 
